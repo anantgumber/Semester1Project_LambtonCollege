@@ -1,1 +1,1 @@
-# Semester1Project_LambtonCollege
+# Semester1GroupProject_LambtonCollege
